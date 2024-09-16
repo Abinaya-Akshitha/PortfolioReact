@@ -26,7 +26,7 @@ const projects = [
     title: "React Portfolio",
     description: "This portfolio website, crafted using React, highlights my skills. It presents a curated selection of my projects and expertise, offering a clean and responsive interface that reflects my commitment to modern web design and user experience.",
     images: ["resume1.png", "resume2.png", "resume3.png"],
-    codeLink: "https://github.com/Yagnik-Gohil/NoteMarketPlaceHTML"
+    codeLink: "https://github.com/Abinaya-Akshitha/PortfolioReact.git"
   },
   {
     id: 4,
